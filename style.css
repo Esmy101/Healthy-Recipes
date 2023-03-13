@@ -1,0 +1,14 @@
+img {
+    height: 150px;
+}
+/* recipe description*/
+.description{
+    font-size: 20px;
+}
+#cook-time{
+    font-weight: bold;
+}
+/*parent-element child-element {}*/
+.ingredients li {
+    list-style: square;
+}
