@@ -12,3 +12,10 @@ img {
 .ingredients li {
     list-style: square;
 }
+/*element.class {}*/
+p.time{
+    color: gray;
+}
+.external-link{
+    color: SeaGreen;
+}
